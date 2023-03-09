@@ -1,0 +1,19 @@
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+/Users/rafael.zardo/.rubies/ruby-3.1.3/bin/ruby -I /Users/rafael.zardo/.rubies/ruby-3.1.3/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-dntlbd sitelibdir\=./.gem.20230309-25763-dntlbd clean
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-dntlbd sitelibdir\=./.gem.20230309-25763-dntlbd
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-dntlbd sitelibdir\=./.gem.20230309-25763-dntlbd install
+/opt/homebrew/bin/ginstall -c -m 0755 debug.bundle ./.gem.20230309-25763-dntlbd/debug
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-dntlbd sitelibdir\=./.gem.20230309-25763-dntlbd clean

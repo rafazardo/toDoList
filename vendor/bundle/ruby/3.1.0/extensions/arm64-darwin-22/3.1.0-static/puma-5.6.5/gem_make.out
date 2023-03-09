@@ -1,0 +1,33 @@
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/puma-5.6.5/ext/puma_http11
+/Users/rafael.zardo/.rubies/ruby-3.1.3/bin/ruby -I /Users/rafael.zardo/.rubies/ruby-3.1.3/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+checking for DTLS_method() in openssl/ssl.h... yes
+checking for TLS_server_method() in openssl/ssl.h... yes
+checking for SSL_CTX_set_min_proto_version(NULL, 0) in openssl/ssl.h... yes
+checking for X509_STORE_up_ref()... yes
+checking for SSL_CTX_set_ecdh_auto(NULL, 0) in openssl/ssl.h... yes
+checking for SSL_CTX_set_dh_auto(NULL, 0) in openssl/ssl.h... yes
+checking for SSL_get1_peer_certificate() in openssl/ssl.h... no
+checking for Random.bytes... yes
+creating Makefile
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-17d2do sitelibdir\=./.gem.20230309-25763-17d2do clean
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-17d2do sitelibdir\=./.gem.20230309-25763-17d2do
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.bundle
+ld: warning: dylib (/opt/homebrew/opt/openssl@1.1/lib/libssl.dylib) was built for newer macOS version (13.0) than being linked (12.3)
+ld: warning: dylib (/opt/homebrew/opt/openssl@1.1/lib/libcrypto.dylib) was built for newer macOS version (13.0) than being linked (12.3)
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-17d2do sitelibdir\=./.gem.20230309-25763-17d2do install
+/opt/homebrew/bin/ginstall -c -m 0755 puma_http11.bundle ./.gem.20230309-25763-17d2do/puma
+
+current directory: /Users/rafael.zardo/Library/CloudStorage/OneDrive-Pessoal/Faculdade/toDoList/vendor/bundle/ruby/3.1.0/gems/puma-5.6.5/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230309-25763-17d2do sitelibdir\=./.gem.20230309-25763-17d2do clean
