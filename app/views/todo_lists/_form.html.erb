@@ -13,15 +13,15 @@
 
   <div>
     <%= form.label "Título", style: "display: block" %>
-    <%= form.text_field :titulo %>
+    <%= form.text_field :titulo, required: true%>
   </div>
 
   <div>
     <%= form.label "Descrição", style: "display: block" %>
-    <%= form.text_area :descricao %>
+    <%= form.text_area :descricao, required: true%>
   </div>
 
   <div>
-    <%= form.submit "Criar Lista ToDo" %>
+    <%= form.submit "Criar Lista To Do" %>
   </div>
 <% end %>
