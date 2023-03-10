@@ -9,9 +9,9 @@ class TodoItemsController < ApplicationController
 
     def show
         if @todo_item.destroy 
-            flash[:sucess] = "O item foi deletado da lista"
+            flash[:sucess] = "O item foi deletado da lista!"
         else 
-            flash[:error] = "Erro O item não foi deletado da lista"
+            flash[:error] = "Erro! O item não foi deletado da lista"
         end
         redirect_to @todo_list
     end
