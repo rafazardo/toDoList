@@ -1,24 +1,19 @@
-# README
+# To Do List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A página em questão permite criar uma lista de tarefas com vários itens, permitindo que você marque as tarefas concluídas e exclua tanto as listas quanto os itens individuais da lista.
 
-Things you may want to cover:
+# Proposta
 
-* Ruby version
+O sistema foi desenvolvido com o objetivo de aprimorar habilidades em tecnologias voltadas para o front-end, como HTML, CSS e BooStrap, e também para o back-end, utilizando a linguagem Ruby em conjunto com o framework Ruby on Rails 7. Além disso, foi possível praticar conceitos de banco de dados utilizando SQLite.
 
-* System dependencies
+# Atividades Realizadas
 
-* Configuration
+* Configurar o ambiente de desenvolvimento para garantir que o Ruby on Rails funcione corretamente com o banco de dados SQLite.
+* Arquitetar a estrutura de dados do sistema, criando tabelas que atendam às normas de normalização de banco de dados e aplicando as referências necessárias entre elas.
+* Desenvolver a lógica para permitir a criação de listas, exclusão de listas, criação de itens de lista, marcação desses itens como concluídos e exclusão desses itens, utilizando a linguagem Ruby.
+* Desenvolver o layout das páginas utilizando CSS, além de utilizar ícones responsivos do Bootstrap para melhorar a navegação e a experiência do usuário.
+* Dividir e organizar o projeto em tarefas utilizando a ferramenta Projects do Github, além de realizar o versionamento do código em versões do software no Github.
 
-* Database creation
+# Telas
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Tela Principal
