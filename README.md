@@ -16,4 +16,18 @@ O sistema foi desenvolvido com o objetivo de aprimorar habilidades em tecnologia
 
 # Telas
 
-## Tela Principal
+## Tela de Inicio
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/toDoList/tela_inicial.png)
+
+## Tela Criar Nova Lista
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/toDoList/tela_adicionar.png)
+
+## Tela de Lista
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/toDoList/tela_lista.png)
+
+## Tela Editar Lista
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/toDoList/tela_editar.png)
